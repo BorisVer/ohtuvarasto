@@ -1,0 +1,3 @@
+*tmc
+pycache/
+.pytest_cache/
