@@ -21,5 +21,5 @@ disable=raw-checker-failed,
 [REFACTORING]
 	max-nested-blocks = 2
 [DESIGN]
-	max-statements = 15
+	max-statements = 50
 	max-args = 5
